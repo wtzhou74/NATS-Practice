@@ -1,4 +1,4 @@
-# Technical challenge
+# NATS Practice
 
 This is a Spring Boot-based application for a technical challenge.
 The main functionalities are as follows:
